@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-image: url(../imagenes/Fondo\ G.avif)
+}
+h1{
+   text-align: center;
+    font-family: Candara;
+    font-size: 40px;
+    text-transform: uppercase; 
+    background-image: url(../imagenes/fff.avif);
+    color:royalblue;
+    border-radius: 15px;
+    font-style: italic;
+}
+section{
+    margin: 5px;
+    padding: 5px;
+    background-image: url(../imagenes/fff.avif);
+    font-family: Century Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    border-radius: 15px;
+}
+section h2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+h3{
+    color: rgb(14, 13, 13);
+}
+a{
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+}
+img{
+    width: 30%;
+}
+ol{
+   margin: 5px;
+    padding: 5px;
+}
